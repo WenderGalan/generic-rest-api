@@ -4,7 +4,10 @@
 
     <groupId>io.github.wendergalan</groupId>
     <artifactId>generic-rest-api</artifactId>
-    <version>1.0.0-RELEASE</version>
+    <!-- To publish new version -->
+    <!-- git tag 'version' -->
+    <!-- git push origin - -tags -->
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>generic-rest-api</name>
