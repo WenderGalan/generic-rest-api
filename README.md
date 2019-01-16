@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/WenderGalan/generic-rest-api.svg?branch=master)](https://travis-ci.org/WenderGalan/generic-rest-api)
 [![Developer](https://img.shields.io/badge/Developer-Wender%20Galan-brightgreen.svg)](https://github.com/WenderGalan)
+[![](https://jitpack.io/v/WenderGalan/generic-rest-api.svg)](https://jitpack.io/#WenderGalan/generic-rest-api)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Gitter](https://badges.gitter.im/WenderGalan/generic-rest-api.svg)](https://gitter.im/generic-rest-api/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
@@ -9,8 +10,26 @@ This project is a generic API to facilitate the creation of new rest services.
 
 ## Maven Repository
 
-```xml
 
+To use it in your Maven build add the dependencies below in your POM.xml
+
+```xml
+<!-- JITPACK DEPENDENCY -->
+<repositories>
+	<repository>
+	    <id>jitpack.io</id>
+	    <url>https://jitpack.io</url>
+	</repository>
+</repositories>
+```
+and the dependency:
+```xml
+<!-- GENERIC REST API DEPENDENCY -->
+<dependency>
+    <groupId>com.github.WenderGalan</groupId>
+    <artifactId>generic-rest-api</artifactId>
+    <version>1.0.0</version>
+</dependency>
 ```
 
 ## Releases
