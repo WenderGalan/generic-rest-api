@@ -312,7 +312,7 @@ public abstract class GenericController<T, ID extends Serializable> {
      * @return true if it`s ok to continue or false.
      */
     protected boolean setDefaultValue(T entity) {
-        return false;
+        return true;
     }
 
     /**
