@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/WenderGalan/generic-rest-api.svg?branch=master)](https://travis-ci.org/WenderGalan/generic-rest-api)
 [![Developer](https://img.shields.io/badge/Developer-Wender%20Galan-brightgreen.svg)](https://github.com/WenderGalan)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWenderGalan%2Fgeneric-rest-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FWenderGalan%2Fgeneric-rest-api?ref=badge_shield)
 [![](https://jitpack.io/v/WenderGalan/generic-rest-api.svg)](https://jitpack.io/#WenderGalan/generic-rest-api)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Gitter](https://badges.gitter.im/WenderGalan/generic-rest-api.svg)](https://gitter.im/generic-rest-api/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
@@ -74,3 +75,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWenderGalan%2Fgeneric-rest-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FWenderGalan%2Fgeneric-rest-api?ref=badge_large)
